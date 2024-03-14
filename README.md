@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on:
+  - [workplace violence predition API](https://github.com/averybobbitt/workplace-violence-prediction-api)
+  - LDAP query to CSV utility
+- 🌱 I’m currently learning: Django
+- 📫 How to reach me: 
+  - [personal email](mailto:avery@bobbitt.dev)
+  - [work email](mailto:bobbit82@rowan.edu)
+- 😄 Pronouns: they/he
+- ⚡ Fun fact: mac miller was my #1 artist in 2023
+
 <!--
 **averybobbitt/averybobbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
