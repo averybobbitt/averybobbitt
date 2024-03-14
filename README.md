@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
