@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 
+- 🏫 Rowan University Computer Science '24
 - 🔭 I’m currently working on:
   - [workplace violence predition API](https://github.com/averybobbitt/workplace-violence-prediction-api)
   - LDAP query to CSV utility
