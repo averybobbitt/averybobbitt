@@ -5,7 +5,7 @@
 - 🏫 Rowan University Computer Science '24
 - 🔭 I’m currently working on:
   - [workplace violence predition API](https://github.com/averybobbitt/workplace-violence-prediction-api)
-  - LDAP query to CSV utility
+  - reviving [filelocker](https://sourceforge.net/projects/filelocker2/) for python3
 - 🌱 I’m currently learning: Django
 - 📫 How to reach me: 
   - [personal email](mailto:avery@bobbitt.dev)
