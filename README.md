@@ -3,15 +3,11 @@
 ### Hi there 👋
 
 - 🏫 Rowan University Computer Science '24
-- 🔭 I’m currently working on:
-  - [workplace violence predition API](https://github.com/averybobbitt/workplace-violence-prediction-api)
-  - reviving [filelocker](https://sourceforge.net/projects/filelocker2/) for python3
-- 🌱 I’m currently learning: Django
 - 📫 How to reach me: 
   - [personal email](mailto:avery@bobbitt.dev)
   - [work email](mailto:bobbit82@rowan.edu)
 - 😄 Pronouns: they/he
-- ⚡ Fun fact: mac miller was my #1 artist in 2023
+- ⚡ Fun fact: I have a cat named Scoober - you can find him on [Instagram](https://www.instagram.com/scoober.t)
 
 <!--
 **averybobbitt/averybobbitt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
